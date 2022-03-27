@@ -1,0 +1,72 @@
+10001
+P
+P
+NAM
+P
+P
+1 1 1
+1 1 1
+1 1 5
+10003
+K
+K
+NU
+kkkk
+kkkk
+1 1 1
+1 1 1
+1 1 5
+10005
+A
+A
+NAM
+A
+A
+1 1 1
+1 1 1
+1 1 5
+10006
+H
+H
+NAM
+H
+H
+1 1 1
+1 1 1
+1 1 5
+10008
+P
+L
+NU
+L
+L
+1 1 1
+1 1 1
+1 1 5
+10009
+U
+U
+NU
+U
+U
+1 1 1
+1 1 1
+1 1 5
+10010
+S
+S
+NU
+S
+S
+1 1 1
+1 1 1
+1 1 5
+10011
+HUYNH TRUONG MINH KHANG
+079202
+NAM
+khanghuynh0406@gmail.com
+Bui Vien
+4 6 2002
+3 1 2021
+3 1 2025
